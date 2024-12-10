@@ -1,0 +1,5 @@
+D:/src/Kolya/Draft_console/Draft_console/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/src/Kolya/Draft_console/Draft_console/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/src/Kolya/Draft_console/Draft_console/out/build/x64-debug/Draft_console/CMakeFiles/Draft_console.dir
+D:/src/Kolya/Draft_console/Draft_console/out/build/x64-debug/Draft_console/CMakeFiles/edit_cache.dir
+D:/src/Kolya/Draft_console/Draft_console/out/build/x64-debug/Draft_console/CMakeFiles/rebuild_cache.dir

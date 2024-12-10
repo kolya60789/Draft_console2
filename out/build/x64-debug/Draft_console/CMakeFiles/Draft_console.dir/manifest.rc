@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/src/Kolya/Draft_console/Draft_console/out/build/x64-debug/Draft_console/CMakeFiles/Draft_console.dir/embed.manifest"
